@@ -1,0 +1,4 @@
+order_id,customer_id,order_date,status
+1,1,2023-01-01,completed
+2,2,2023-01-02,completed
+3,1,2023-02-01,pending
